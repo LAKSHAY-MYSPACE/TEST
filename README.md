@@ -1,2 +1,3 @@
 # TEST
-Working hard
+alpha=int(input('Enter the first code'))
+print(alpha)
